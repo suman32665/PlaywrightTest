@@ -1,7 +1,7 @@
 **To install NVM (Node Version Manager)**
 
 **A. For macOS and Linux**
-Download and install NVM: Run the following command in your terminal:
+1. Download and install NVM: Run the following command in your terminal:
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 
@@ -42,5 +42,6 @@ nvm use 18
 node -v
 
 **To Run the test use the following command in terminal(First change directory to test project)**
+
 npx playwright test
 
