@@ -36,7 +36,9 @@ nvm version
 If you see a version number, it’s installed.
 
 **Install Node.js Using NVM**
+
 Once NVM is installed, you can install and manage Node.js versions:
+
 nvm install 20
 nvm use 18
 node -v
