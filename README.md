@@ -40,7 +40,9 @@ If you see a version number, it’s installed.
 Once NVM is installed, you can install and manage Node.js versions:
 
 nvm install 20
+
 nvm use 18
+
 node -v
 
 **To Run the test use the following command in terminal(First change directory to test project)**
